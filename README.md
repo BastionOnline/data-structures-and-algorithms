@@ -4,25 +4,10 @@ A structured repository tracking my solutions to core data structures and algori
 
 ---
 
-## 🎯 Focus & Learning Objectives
+## Focus & Learning Objectives
 * **Pattern Recognition:** Grouping problems by underlying patterns (e.g., Two Pointers, Sliding Window, Monotonic Stack, Backtracking, Graph BFS/DFS) rather than memorizing individual solutions.
 * **Optimal Analysis:** Evaluating every solution for optimal Big-O time and space complexity ($O(N)$, $O(\log N)$, etc.).
 * **Clean Code:** Writing readable, idiomatic code with clear variable naming and guard clauses.
-
----
-
-## 📂 Repository Structure
-Solutions are synchronized automatically via NeetCode integration and grouped by topic domain:
-
-Data Structures & Algorithms/
-├── array-and-hashing/
-│   ├── two-sum/
-│   │   └── submission-0.py
-│   └── valid-anagram/
-│       └── submission-0.py
-├── two-pointers/
-├── sliding-window/
-└── trees/
 
 ---
 
