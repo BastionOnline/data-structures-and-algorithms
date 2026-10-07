@@ -11,5 +11,5 @@ A structured repository tracking my solutions to core data structures and algori
 
 ---
 
-## 🛠 Languages Used
+## Languages Used
 - **Primary:** Python 3 (`.py`)
